@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "marcadores",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NOMBRE": "A", "LAT": 9.712923456, "LONG": -83.97396515, "DIRECCION": "San José, Dota, El Jardín, Route 2" }, "geometry": { "type": "Point", "coordinates": [ -83.97396515, 9.712923456000055 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "B", "LAT": 10.35968555, "LONG": -84.16952865, "DIRECCION": "Alajuela, Route 126, 800 m SW from los Aparejos Restaurant" }, "geometry": { "type": "Point", "coordinates": [ -84.169528649999961, 10.359685550000052 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "C", "LAT": 9.781867735000001, "LONG": -83.83802219, "DIRECCION": "Cartago, Orosí, , aside Macho River" }, "geometry": { "type": "Point", "coordinates": [ -83.838022189999947, 9.781867735000048 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "D", "LAT": 10.21472386, "LONG": -84.16574663, "DIRECCION": "Alajuela, route 126, 180 m NE from Soda la Campesina" }, "geometry": { "type": "Point", "coordinates": [ -84.165746629999944, 10.214723860000049 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "E", "LAT": 10.08484406, "LONG": -84.07139426000001, "DIRECCION": "Heredia, San Rafael, Cerro Dantas Road" }, "geometry": { "type": "Point", "coordinates": [ -84.071394259999977, 10.084844060000023 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "F", "LAT": 9.49073068, "LONG": -83.69131428, "DIRECCION": "112 km route 2." }, "geometry": { "type": "Point", "coordinates": [ -83.691314279999972, 9.49073068000007 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "G", "LAT": 9.615839513, "LONG": -83.81908202, "DIRECCION": "San José, Copey, Route 2, in front of Los Chespiritos # 1 Restaurant" }, "geometry": { "type": "Point", "coordinates": [ -83.819082019999939, 9.615839513000026 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "I", "LAT": 10.08677671, "LONG": -84.15934928, "DIRECCION": "Heredia, Barva Road 126, 450 m N Escuela Aniceto Esquivel Saenz" }, "geometry": { "type": "Point", "coordinates": [ -84.159349279999958, 10.086776710000038 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "J", "LAT": 10.36925147, "LONG": -84.16228475, "DIRECCION": "Alajuela, Road 126, next to Soda la Zarcereña" }, "geometry": { "type": "Point", "coordinates": [ -84.162284749999969, 10.369251470000052 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "L", "LAT": 9.557952768, "LONG": -83.72362253, "DIRECCION": "San José, Rivas, Route 2, next to La Georgina restaurant" }, "geometry": { "type": "Point", "coordinates": [ -83.723622529999943, 9.557952768000064 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "M", "LAT": 10.31322577, "LONG": -84.18367239, "DIRECCION": "Alajuela. San Miguel, road 126, west side of Servicentro JMS" }, "geometry": { "type": "Point", "coordinates": [ -84.18367239, 10.313225770000031 ] } }
+]
+}
